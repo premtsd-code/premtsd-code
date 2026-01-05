@@ -23,7 +23,7 @@ I have worked on real-world systems involving **high-volume data processing**, *
 - RESTful API design  
 
 **Databases**  
-- PostgreSQL, MySQL  
+- PostgreSQL, MySQL, Oracle  
 - Neo4j  
 
 **Messaging & Caching**  
@@ -32,7 +32,6 @@ I have worked on real-world systems involving **high-volume data processing**, *
 
 **DevOps & Cloud**  
 - Docker, Docker Compose  
-- Kubernetes  
 - CI/CD basics  
 
 **Observability & Reliability**  
@@ -66,7 +65,6 @@ I have worked on real-world systems involving **high-volume data processing**, *
 
 ## 📫 Let’s Connect
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://www.linkedin.com/in/your-profile  
+- LinkedIn: https://www.linkedin.com/in/prem-palani  
 
 Thanks for stopping by 🙂
