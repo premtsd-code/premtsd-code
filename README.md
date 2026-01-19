@@ -7,7 +7,6 @@ I enjoy building scalable applications, designing clean APIs, and solving comple
 
 ## 👨‍💻 About Me
 
-- Engineering Intern @ Appwrite  
 - Master’s in Computer Science (Software Engineering)  
 - Over 3 years of industry experience as an ERP and Integration Specialist  
 - Strong background in Java, Spring Boot, and microservices  
